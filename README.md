@@ -1,6 +1,6 @@
-# REST_ASSURED_Serialization_Authorization_useLombok
+# TEST REST API Authorization
 
-This is a project with my solution of some proposed exercises from my local server "https://jsonplaceholder"
+This is a project with my solution of some proposed exercises from my local server jsonplaceholder
 
 ## **Tools**
 Project is created with:
